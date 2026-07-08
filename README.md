@@ -79,7 +79,7 @@ sudo apt update
 sudo apt install python3 python3-pip ffmpeg -y
 
 # 2. Clone the repository
-git clone https://github.com/yourusername/advanced-rename-bot.git
+https://github.com/remaru80-star/Veldora/tree/main
 cd advanced-rename-bot
 
 # 3. Install Python packages
