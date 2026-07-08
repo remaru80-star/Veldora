@@ -1,13 +1,8 @@
-pyrotgfork
+pyrogram==2.0.106
+tgcrypto
 motor
 python-dotenv
 Pillow
-aiohttp 
-beautifulsoup4
-lxml
-tgcrypto
-ffmpeg
-
 
 
 
