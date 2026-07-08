@@ -5,8 +5,10 @@ Pillow
 aiohttp 
 beautifulsoup4
 lxml
-TgCrypto
+tgcrypto
 libtorrent
- ffmpeg
+ffmpeg
+
+
 
 
