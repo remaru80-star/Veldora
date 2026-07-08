@@ -1,0 +1,12 @@
+pyrotgfork
+motor
+python-dotenv
+Pillow
+aiohttp 
+beautifulsoup4
+lxml
+TgCrypto
+libtorrent
+ ffmpeg
+
+
