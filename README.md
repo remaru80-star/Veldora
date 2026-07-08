@@ -48,7 +48,7 @@ Sequence mode lets you collect many files first (/ssequence), sort them (/eseque
 ⚙️ Environment Variables – How to Set Them
 The bot reads all configuration from a .env file (or environment variables on cloud hosts).
 Create a file named .env in the same folder as the bot script and paste the following:
-<pre>API_ID = 123456
+<pre>API_ID = 123456</pre>
 API_HASH = your_api_hash
 BOT_TOKEN = 123:abc...
 ADMIN = 111111,222222
