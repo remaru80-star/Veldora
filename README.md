@@ -45,9 +45,9 @@ If extraction fails → the file goes to your failed queue. Once all other tasks
 
 Sequence mode lets you collect many files first (/ssequence), sort them (/esequence) and then add them to the processing queue in the exact order you want.
 
-<pre>⚙️ Environment Variables – How to Set Them<pre>
-<pre>The bot reads all configuration from a .env file (or environment variables on cloud hosts).<pre>
-<pre>Create a file named .env in the same folder as the bot script and paste the following:<pre>
+⚙️ Environment Variables – How to Set Them
+The bot reads all configuration from a .env file (or environment variables on cloud hosts).
+Create a file named .env in the same folder as the bot script and paste the following:
 <pre>API_ID = 123456<pre>
 <pre>API_HASH = your_api_hash<pre>
 BOT_TOKEN = 123:abc...
