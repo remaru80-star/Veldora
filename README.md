@@ -45,11 +45,11 @@ If extraction fails → the file goes to your failed queue. Once all other tasks
 
 Sequence mode lets you collect many files first (/ssequence), sort them (/esequence) and then add them to the processing queue in the exact order you want.
 
-⚙️ Environment Variables – How to Set Them
-The bot reads all configuration from a .env file (or environment variables on cloud hosts).
-Create a file named .env in the same folder as the bot script and paste the following:
-API_ID = 123456
-API_HASH = your_api_hash
+<pre>⚙️ Environment Variables – How to Set Them<pre>
+<pre>The bot reads all configuration from a .env file (or environment variables on cloud hosts).<pre>
+<pre>Create a file named .env in the same folder as the bot script and paste the following:<pre>
+<pre>API_ID = 123456<pre>
+<pre>API_HASH = your_api_hash<pre>
 BOT_TOKEN = 123:abc...
 ADMIN = 111111,222222
 DB_URL = mongodb+srv://user:pass@cluster.mongodb.net
