@@ -6,7 +6,6 @@ aiohttp
 beautifulsoup4
 lxml
 tgcrypto
-libtorrent
 ffmpeg
 
 
